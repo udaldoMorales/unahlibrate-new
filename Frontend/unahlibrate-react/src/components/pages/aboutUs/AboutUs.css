@@ -1,0 +1,101 @@
+#logounahlibrate-azul-about{
+    align-items: center;
+}
+
+#lista{
+    padding-left: 0px;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.idLista.letra{
+    font-size: 14px;
+    margin-left: 0px;
+}
+.idLista{
+}
+
+.clearfix{
+    clear: both;
+}
+
+.centerList{
+    width: 11rem;
+    margin: 0px auto;
+}
+
+
+
+@media(max-width:575.98px){
+    .cards {
+        padding: 0rem !important;
+        background: #fff;
+    }
+   
+}
+
+@media(max-width:360px){
+    .cards {
+        padding: 0.5rem !important;
+        background: #fff;
+    }
+   
+}
+
+@media(max-width:320px){
+    .cards {
+        padding: 0rem !important;
+        background: #fff;
+    }
+   
+}
+@media(max-width:768px){
+    .cards {
+        padding: 5rem !important;
+        background: #fff;
+    }
+   
+}
+
+
+
+@media(max-width:1200px){
+    .cards {
+        padding: 1rem ;
+        background: #fff;
+    }
+   
+}
+
+
+
+
+
+@media (min-width: 375px) {
+    .cards {
+        padding: 1rem!important ;
+        background: #fff;
+    }
+
+}
+
+@media (min-width: 320px) {
+    .cards {
+        padding: 0rem!important ;
+        background: #fff;
+    }
+
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .cards {
+        padding: 6rem!important;
+        background: #fff;
+    }
+  }
+
+  
